@@ -1,4 +1,4 @@
-package ua.artcode.classWork1;;
+package HomeWorkWeek1;;
 import java.util.Scanner;
 /**
  * Created by Вадим on 03.10.2016.
